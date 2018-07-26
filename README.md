@@ -1,5 +1,5 @@
 # Artificial Inteligence Projects
-In this repository are all the IA projects i code in [Python](www.python.org).
+In this repository are all the IA projects i code in [Python](https://www.python.org).
 
 ## Projects
 ### Computer Vision
