@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40b71b-af9f-42a5-aaf7-2bd772d1ac1e" name="Default Changelist" comment="-show the sentence in diferents ways.">
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/CaptureVideoFromCamera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/PlayVideoFromFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/SaveVideoFromCamera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/img/watch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/img/watch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +40,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
           <entry key="png" value="1" />
           <entry key="py" value="13" />
         </counts>
@@ -55,21 +48,21 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
           <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="50" />
-          <entry key="md" value="351" />
+          <entry key="md" value="406" />
           <entry key="py" value="2260" />
           <entry key="txt" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="351" />
+          <entry key="Markdown" value="406" />
           <entry key="PLAIN_TEXT" value="181" />
           <entry key="Python" value="2260" />
         </counts>
@@ -80,13 +73,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,10 +107,10 @@
         <option value="$PROJECT_DIR$/OpenCV_Projects/test_2_saveVideo.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -165,14 +158,6 @@
               <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="GUIFeatures" type="462c0819:PsiDirectoryNode" />
               <item name="GettingStartedWithImages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="GUIFeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="GettingStartedWithImages" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -573,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="280">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -613,6 +588,16 @@
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
