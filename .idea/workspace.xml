@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40b71b-af9f-42a5-aaf7-2bd772d1ac1e" name="Default Changelist" comment="-show the sentence in diferents ways.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d4d81bb9efad67a0e4429734a2cff52c1112ade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc50934cd1410adc78057aea9650cb8af46ad5de" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/img/watch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +17,9 @@
     <SUITE FILE_PATH="coverage/IA_Projects$pytest_in_test_1_py.coverage" NAME="test_1.py Coverage Results" MODIFIED="1533153480667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$test_2_saveVideo_py.coverage" NAME="test_2_saveVideo.py Coverage Results" MODIFIED="1533156250794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$CaptureVideoFromCamera.coverage" NAME="CaptureVideoFromCamera Coverage Results" MODIFIED="1533159433309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
-    <SUITE FILE_PATH="coverage/IA_Projects$recognition.coverage" NAME="recognition Coverage Results" MODIFIED="1532965023903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ComputerVision" />
     <SUITE FILE_PATH="coverage/IA_Projects$test_2_py.coverage" NAME="test_2.py Coverage Results" MODIFIED="1533154751218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
+    <SUITE FILE_PATH="coverage/IA_Projects$recognition.coverage" NAME="recognition Coverage Results" MODIFIED="1533160311424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ComputerVision" />
+    <SUITE FILE_PATH="coverage/IA_Projects$LoadImage.coverage" NAME="LoadImage Coverage Results" MODIFIED="1533160388060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1532981737286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLTK_projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$SaveVideoFromCamera.coverage" NAME="SaveVideoFromCamera Coverage Results" MODIFIED="1533159518170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
   </component>
@@ -47,28 +38,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
-          <entry key="py" value="7" />
+          <entry key="md" value="3" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
-          <entry key="Python" value="7" />
+          <entry key="Markdown" value="3" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="41" />
-          <entry key="md" value="177" />
+          <entry key="dummy" value="50" />
+          <entry key="md" value="349" />
           <entry key="py" value="1771" />
           <entry key="txt" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="177" />
-          <entry key="PLAIN_TEXT" value="172" />
+          <entry key="Markdown" value="349" />
+          <entry key="PLAIN_TEXT" value="181" />
           <entry key="Python" value="1771" />
         </counts>
       </usages-collector>
@@ -77,13 +68,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLTK_projects/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="174">
+                <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV_Projects/LoadImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ComputerVision/recognition.py" />
         <option value="$PROJECT_DIR$/NLTK_projects/test.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/test_1.py" />
@@ -113,6 +124,7 @@
         <option value="$PROJECT_DIR$/OpenCV_Projects/test_2_saveVideo.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -123,9 +135,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2046" />
+    <option name="x" value="1948" />
     <option name="y" value="570" />
-    <option name="width" value="891" />
+    <option name="width" value="989" />
     <option name="height" value="668" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -147,12 +159,6 @@
               <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PlayVideoFromFile">
+  <component name="RunManager" selected="Python.LoadImage">
     <configuration name="CaptureVideoFromCamera" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,6 +208,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoadImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IA_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,28 +304,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IA_Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLTK_projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLTK_projects/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_1.py" type="PythonConfigurationType" factoryName="Python">
       <module name="IA_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,7 +317,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/test_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\LoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,18 +375,18 @@
       <item itemvalue="Python.test_2.py" />
       <item itemvalue="Python.test_2_saveVideo.py" />
       <item itemvalue="Python.recognition" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.CaptureVideoFromCamera" />
       <item itemvalue="Python.SaveVideoFromCamera" />
       <item itemvalue="Python.PlayVideoFromFile" />
+      <item itemvalue="Python.LoadImage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LoadImage" />
+        <item itemvalue="Python.recognition" />
         <item itemvalue="Python.PlayVideoFromFile" />
         <item itemvalue="Python.SaveVideoFromCamera" />
         <item itemvalue="Python.CaptureVideoFromCamera" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.recognition" />
       </list>
     </recent_temporary>
   </component>
@@ -439,16 +445,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2046" y="570" width="891" height="668" extended-state="0" />
+    <frame x="1948" y="570" width="989" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30639324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2837109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" weight="0.32861635" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.31796503" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.31630647" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +470,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.70794076" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.7076591" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
@@ -506,40 +512,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="-show the sentence in diferents ways." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ComputerVision/recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLTK_projects/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/test_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -563,10 +535,44 @@
     <entry file="file://$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComputerVision/recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLTK_projects/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/LoadImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
