@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40b71b-af9f-42a5-aaf7-2bd772d1ac1e" name="Default Changelist" comment="-show the sentence in diferents ways.">
-      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/CaptureVideoFromCamera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/PlayVideoFromFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/SaveVideoFromCamera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_Projects/img/watch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/img/watch.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +18,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/IA_Projects$test_1_py.coverage" NAME="test_1.py Coverage Results" MODIFIED="1533153891895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$PlayVideoFromFile.coverage" NAME="PlayVideoFromFile Coverage Results" MODIFIED="1533160144365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
+    <SUITE FILE_PATH="coverage/IA_Projects$recognition.coverage" NAME="recognition Coverage Results" MODIFIED="1533160311424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ComputerVision" />
+    <SUITE FILE_PATH="coverage/IA_Projects$LoadImage__1_.coverage" NAME="LoadImage (1) Coverage Results" MODIFIED="1533161292302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
+    <SUITE FILE_PATH="coverage/IA_Projects$SaveAnImage.coverage" NAME="SaveAnImage Coverage Results" MODIFIED="1533161248707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
+    <SUITE FILE_PATH="coverage/IA_Projects$ReadAnImage.coverage" NAME="ReadAnImage Coverage Results" MODIFIED="1533160994411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
+    <SUITE FILE_PATH="coverage/IA_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1532981737286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLTK_projects" />
+    <SUITE FILE_PATH="coverage/IA_Projects$test_1_py.coverage" NAME="test_1.py Coverage Results" MODIFIED="1533153891895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$pytest_in_test_1_py.coverage" NAME="test_1.py Coverage Results" MODIFIED="1533153480667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$test_2_saveVideo_py.coverage" NAME="test_2_saveVideo.py Coverage Results" MODIFIED="1533156250794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$CaptureVideoFromCamera.coverage" NAME="CaptureVideoFromCamera Coverage Results" MODIFIED="1533159433309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$test_2_py.coverage" NAME="test_2.py Coverage Results" MODIFIED="1533154751218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
-    <SUITE FILE_PATH="coverage/IA_Projects$recognition.coverage" NAME="recognition Coverage Results" MODIFIED="1533160311424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ComputerVision" />
     <SUITE FILE_PATH="coverage/IA_Projects$LoadImage.coverage" NAME="LoadImage Coverage Results" MODIFIED="1533160388060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
-    <SUITE FILE_PATH="coverage/IA_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1532981737286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLTK_projects" />
     <SUITE FILE_PATH="coverage/IA_Projects$SaveVideoFromCamera.coverage" NAME="SaveVideoFromCamera Coverage Results" MODIFIED="1533159518170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Projects" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -38,21 +47,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="4" />
-          <entry key="py" value="10" />
+          <entry key="md" value="5" />
+          <entry key="png" value="1" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="4" />
-          <entry key="Python" value="10" />
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="5" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="50" />
           <entry key="md" value="351" />
-          <entry key="py" value="1771" />
+          <entry key="py" value="2260" />
           <entry key="txt" value="131" />
         </counts>
       </usages-collector>
@@ -60,7 +71,7 @@
         <counts>
           <entry key="Markdown" value="351" />
           <entry key="PLAIN_TEXT" value="181" />
-          <entry key="Python" value="1771" />
+          <entry key="Python" value="2260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -69,13 +80,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="214">
-                <caret line="14" selection-start-line="14" selection-end-line="14" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,6 +115,9 @@
         <option value="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" />
         <option value="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py" />
+        <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py" />
+        <option value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py" />
       </list>
     </option>
   </component>
@@ -134,6 +148,32 @@
               <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIFeatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="GettingStartedWithImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IA_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IA_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="GettingStartedWithImages" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -151,6 +191,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithVideos" />
+      <recent name="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithImages" />
+      <recent name="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures" />
       <recent name="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects" />
       <recent name="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\ComputerVision" />
     </key>
@@ -167,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LoadImage">
-    <configuration name="CaptureVideoFromCamera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LoadImage (1)">
+    <configuration name="LoadImage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +246,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/LoadImage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithImages\LoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PlayVideoFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReadAnImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaveVideoFromCamera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SaveAnImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,12 +285,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +334,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\LoadImage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithImages\LoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +356,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\CaptureVideoFromCamera.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithVideos\CaptureVideoFromCamera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +378,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\SaveVideoFromCamera.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DM02908\Desktop\DEV\Python\IA_Projects\OpenCV_Projects\GUIFeatures\GettingStartedWithVideos\SaveVideoFromCamera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,18 +392,18 @@
       <item itemvalue="Python.test_2.py" />
       <item itemvalue="Python.test_2_saveVideo.py" />
       <item itemvalue="Python.recognition" />
-      <item itemvalue="Python.CaptureVideoFromCamera" />
-      <item itemvalue="Python.SaveVideoFromCamera" />
-      <item itemvalue="Python.PlayVideoFromFile" />
       <item itemvalue="Python.LoadImage" />
+      <item itemvalue="Python.ReadAnImage" />
+      <item itemvalue="Python.SaveAnImage" />
+      <item itemvalue="Python.LoadImage (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LoadImage (1)" />
+        <item itemvalue="Python.SaveAnImage" />
+        <item itemvalue="Python.ReadAnImage" />
         <item itemvalue="Python.LoadImage" />
         <item itemvalue="Python.recognition" />
-        <item itemvalue="Python.PlayVideoFromFile" />
-        <item itemvalue="Python.SaveVideoFromCamera" />
-        <item itemvalue="Python.CaptureVideoFromCamera" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +529,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="-show the sentence in diferents ways." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/CaptureVideoFromCamera.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/CaptureVideoFromCamera.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
@@ -496,7 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/SaveVideoFromCamera.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/SaveVideoFromCamera.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -506,7 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/PlayVideoFromFile.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithVideos/PlayVideoFromFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
@@ -530,23 +573,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/LoadImage.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="280">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/ReadAnImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="214">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/imagegray.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/SaveAnImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV_Projects/GUIFeatures/GettingStartedWithImages/LoadImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
