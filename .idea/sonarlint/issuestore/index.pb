@@ -23,3 +23,11 @@ g
 7OpenCV_Projects/GUIFeatures/DrawingFunctions/Drawing.py,b\3\b3e6778709a1cb8e2912c5b7870d1df68e4b6492
 D
 TensorFlow/test_1.py,f\b\fba7a078df1fc87053ca0a1e4bf2a6a9a23e8f56
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+m
+=OpenCV_Projects/GUIFeatures/MouseAsAPaint-Brush/SimpleDemo.py,d\d\dd29e144df6930f47b988b0b00ee1ac021dcb259
+s
+COpenCV_Projects/GUIFeatures/MouseAsAPaint-Brush/MoreAdvancedDemo.py,9\7\97d4ac32becf3b48a4c5e3fc5cdc9e9b856be1c3
+q
+AOpenCV_Projects/GUIFeatures/TrackbarAsTheColorPalette/CodeDemo.py,3\3\33e93d331df07dfd971ed12051ccacf9902ee6db
